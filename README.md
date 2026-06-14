@@ -36,31 +36,31 @@ This project predicts whether a telecom customer is likely to leave the service 
 
 ### Customer Churn Distribution
 
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](images/01_churn_distribution.png)
 
 ---
 
 ### Monthly Charges vs Churn
 
-![Monthly Charges](images/monthly_charges_vs_churn.png)
+![Monthly Charges](images/02_monthly_charges_vs_churn.png)
 
 ---
 
 ### Contract Type vs Churn
 
-![Contract](images/contract_vs_churn.png)
+![Contract](images/03_contract_vs_churn.png)
 
 ---
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/04_confusion_matrix.png)
 
 ---
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/05_feature_importance.png)
 
 ---
 

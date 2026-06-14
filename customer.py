@@ -49,7 +49,7 @@ plt.title("Customer Churn Distribution")
 plt.xlabel("Churn")
 plt.ylabel("Number of Customers")
 plt.tight_layout()
-plt.savefig("images/churn_distribution.png")
+plt.savefig("images/01_churn_distribution.png")
 
 plt.show()
 
@@ -62,7 +62,7 @@ plt.title("Monthly Charges vs Churn")
 plt.xlabel("Churn")
 plt.ylabel("Monthly Charges")
 plt.tight_layout()
-plt.savefig("images/churn_distribution.png")
+plt.savefig("images/02_monthly_charges_vs_churn.png")
 
 plt.show()
 
@@ -76,7 +76,7 @@ plt.xlabel("Contract Type")
 plt.ylabel("Number of Customers")
 plt.xticks(rotation=15)
 plt.tight_layout()
-plt.savefig("images/churn_distribution.png")
+plt.savefig("images/03_contract_vs_churn.png")
 
 plt.show()
 
@@ -158,8 +158,7 @@ plt.title("Confusion Matrix")
 plt.xlabel("Predicted")
 plt.ylabel("Actual")
 plt.tight_layout()
-plt.savefig("images/churn_distribution.png")
-
+plt.savefig("images/04_confusion_matrix.png")
 plt.show()
 
 # ===============================
@@ -189,6 +188,5 @@ plt.title("Top 10 Important Features Affecting Customer Churn")
 plt.xlabel("Importance")
 plt.ylabel("Feature")
 plt.tight_layout()
-plt.savefig("images/churn_distribution.png")
-
+plt.savefig("images/05_feature_importance.png")
 plt.show()
