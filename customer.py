@@ -14,7 +14,7 @@ from sklearn.metrics import (
 # ===============================
 # Load Dataset
 # ===============================
-df = pd.read_csv("archive (1)/telco_churn.csv")
+df = pd.read_csv("data/telco_churn.csv")
 
 # ===============================
 # Display First 5 Rows
